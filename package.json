@@ -1,0 +1,8 @@
+{
+  "name": "100-girlfriends-proxy",
+  "version": "1.0.0",
+  "description": "Small web proxy with a search bar and a games library",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
